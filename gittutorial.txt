@@ -1,6 +1,0 @@
-1. What is Git? | Github - 00:05
-2. GitHub SignUp - 12:51
-3. GitHub Creating Repository - 19:36
-4. Creating Branch in GitHub | Pull Request | Merge - 28:22
-5. GitHub Fork - 35:57
-6. How to Upload Project on GitHub using Eclipse - 43:39
